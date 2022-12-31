@@ -1,0 +1,5 @@
+INFO:root:c:\Pytestcapstronproject\hcl.txt
+INFO:root:C:\Pytestcapstronproject\hcl.txt
+INFO:root:C:\Pytestcapstronproject\hcl.txt
+INFO:root:C:\neeru1\discount.txt
+INFO:root:C:\neeru1\discount.txt

@@ -1,0 +1,30 @@
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "C:\CapstronLevel1\LEVEL5\deno_log.py", line 9, in Operation
+    print(self.x/self.y)
+          ~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+ERROR:root:invalid literal for int() with base 10: 'a'
+Traceback (most recent call last):
+  File "C:\CapstronLevel1\LEVEL5\deno_log.py", line 8, in Operation
+    self.y=int(input("enter another number"))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'a'
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "C:\CapstronLevel1\LEVEL5\deno_log.py", line 9, in Operation
+    print(self.x/self.y)
+          ~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "C:\CapstronLevel1\LEVEL5\deno_log.py", line 9, in Operation
+    print(self.x/self.y)
+          ~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+ERROR:root:invalid literal for int() with base 10: 'file'
+Traceback (most recent call last):
+  File "C:\CapstronLevel1\LEVEL5\deno_log.py", line 7, in Operation
+    self.x=int(input("enter the number"))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'file'

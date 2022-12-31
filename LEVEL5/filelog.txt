@@ -1,0 +1,36 @@
+ERROR:root:[Errno 2] No such file or directory: 'text_file3'
+Traceback (most recent call last):
+  File "C:\CapstronLevel1\LEVEL5\demo_exclog.py", line 7, in Fileopen
+    f=open("text_file3","r")
+      ^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'text_file3'
+ERROR:root:[Errno 2] No such file or directory: 'text_file'
+Traceback (most recent call last):
+  File "C:\CapstronLevel1\LEVEL5\demo_exclog.py", line 7, in Fileopen
+    f=open("text_file","r")
+      ^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'text_file'
+ERROR:root:[Errno 2] No such file or directory: 'text_file'
+Traceback (most recent call last):
+  File "C:\CapstronLevel1\LEVEL5\demo_exclog.py", line 7, in Fileopen
+    f=open("text_file","r")
+      ^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'text_file'
+ERROR:root:[Errno 2] No such file or directory: 'text'
+Traceback (most recent call last):
+  File "C:\CapstronLevel1\LEVEL5\demo_exclog.py", line 7, in Fileopen
+    f=open("text","r")
+      ^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'text'
+ERROR:root:[Errno 2] No such file or directory: 'text'
+Traceback (most recent call last):
+  File "C:\CapstronLevel1\LEVEL5\demo_exclog.py", line 7, in Fileopen
+    f=open("text","r")
+      ^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'text'
+ERROR:root:[Errno 2] No such file or directory: 'text'
+Traceback (most recent call last):
+  File "C:\CapstronLevel1\LEVEL5\demo_exclog.py", line 7, in Fileopen
+    f=open("text","r")
+      ^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'text'
